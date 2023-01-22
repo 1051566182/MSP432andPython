@@ -14,6 +14,9 @@
 >
 > [硬件开发笔记】使用Python获取Bilibili粉丝数并通过OLED屏幕显示](https://www.bilibili.com/video/BV1GR4y127nx/?share_source=copy_web&vd_source=d4379e2c9cb0ed957521900d8a64e469)
 
+代码演示视频及原理讲解视频
+[【Python与MSP432的爱恨情仇】Python获取B站粉丝并且显示到OLED屏幕上](https://www.bilibili.com/video/BV1id4y157nw/?share_source=copy_web&vd_source=d4379e2c9cb0ed957521900d8a64e469)
+
 ## 技术难点
 
 - 单片机的UART通讯配置
